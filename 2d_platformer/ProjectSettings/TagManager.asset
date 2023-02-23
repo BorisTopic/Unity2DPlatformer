@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - ScoreCollectable
+  - HealthCollectable
+  - PowerUpCollectable
+  - Boundary
+  - Trap
+  - JumpPowerUpCollectable
+  - Enemy
+  - PauseMenu
+  - Level Selection Box
+  - NPC_Bunny
+  - Checkpoint
+  - LevelStart
+  - LevelEnd
+  - StompArea
+  - BounceArea
+  - TurtleEnemy
+  - Platform
+  - Boss
+  - EndBattle
+  - Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Traps
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3984941239
+    locked: 0
+  - name: Midground
+    uniqueID: 1223102561
+    locked: 0
+  - name: Foreground
+    uniqueID: 1206396957
+    locked: 0
